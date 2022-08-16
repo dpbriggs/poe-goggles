@@ -3,6 +3,7 @@
 ! public: true
 ! author: dpbriggs
 ! avatar: #C0FFEE
+! license: GPLv3
 
 $discard
 $boost=3,site=poedb.tw/us/

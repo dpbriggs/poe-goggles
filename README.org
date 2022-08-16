@@ -11,5 +11,5 @@ https://search.brave.com/goggles?q=haste&source=web&goggles_id=https%253A%252F%2
 You can click "Follow" to save that Goggle. You can also add it to your browser as a custom search engine with:
 
 #+begin_example
-https://search.brave.com/goggles?q=%s&source=web&goggles_id=https%253A%252F%252Fraw.githubusercontent.com%252Fdpbriggs%252Fpoe-goggles%252Fmaster%252Fpoe.goggles
+https://search.brave.com/goggles?q=%s&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fdpbriggs%2Fpoe-goggles%2Fmaster%2Fpoe.goggles
 #+end_example

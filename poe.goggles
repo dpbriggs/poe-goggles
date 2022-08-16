@@ -8,5 +8,5 @@
 $discard
 /us/$boost=10,site=poedb.tw
 $boost=5,site=poewiki.net
-$boost=2,site=pathofexile.com
+$boost=2,site=www.pathofexile.com
 /r/pathofexile$boost=1

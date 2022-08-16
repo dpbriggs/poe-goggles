@@ -6,6 +6,7 @@
 ! license: GPLv3
 
 $discard
-$boost=3,site=poedb.tw/us/
+/us/$boost=3,site=poedb.tw
 $boost=2,site=poewiki.net
 $boost=2,site=pathofexile.com
+/r/pathofexile$boost=1

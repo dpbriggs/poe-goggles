@@ -5,6 +5,6 @@
 ! avatar: #C0FFEE
 
 $discard
-$boost=3,site=poedb.tw
+$boost=3,site=poedb.tw/us/
 $boost=2,site=poewiki.net
 $boost=2,site=pathofexile.com

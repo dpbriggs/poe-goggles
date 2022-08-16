@@ -1,0 +1,10 @@
+! name: Enhance Path of Exile Search Results
+! description: Rerank useful PoE sites and discard the rest
+! public: true
+! author: dpbriggs
+! avatar: #C0FFEE
+
+$discard
+$boost=3,site=poedb.tw
+$boost=2,site=poewiki.net
+$boost=2,site=pathofexile.com
